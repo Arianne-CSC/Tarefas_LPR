@@ -1,30 +1,36 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Exercicio1_Aula11
+namespace Exercicio2_Aula11
 {
     class Program
     {
         static void Main()
         {
-            Console.WriteLine("Digite a altura do retângulo: ");
-            double Altura = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Digite o nome do funcionário: ");
+            string nome = Console.ReadLine();
 
-            Console.WriteLine("Digite a largura do retângulo: ");
-            double Largura = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Digite o salário bruto do funcionário: ");
+            double salario_bruto = Convert.ToDouble(Console.ReadLine());
 
-            Class1 retangulo = new Class1(Altura, Largura);
+            Funcionario funcionario = new Funcionario(nome, salario_bruto);
 
-            double area = retangulo.calcArea();
-            double perimetro = retangulo.calcPerimetro();
+            funcionario.Dados();
 
-            Console.WriteLine($"A área do retângulo é: {area}");
-            Console.WriteLine($"O perímetro do retângulo é: {perimetro}");
+            Console.WriteLine("Digite a porcentagem em que será aumentado o salário: ");
+            double porcentagem = Convert.ToDouble(Console.ReadLine());
+
+            funcionario.AumentarSalario(porcentagem);
+
+            Console.WriteLine("Dados do funcionário atualizados: ");
+            funcionario.Dados();
 
             Console.ReadLine();
         }
     }
 }
+    
