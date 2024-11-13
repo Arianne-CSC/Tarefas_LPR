@@ -1,0 +1,14 @@
+C:\Users\arian\source\repos\Exercicio1_Aula12\Exercicio1_Aula12\obj\Debug\net8.0\Exercicio1_Aula12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arian\source\repos\Exercicio1_Aula12\Exercicio1_Aula12\obj\Debug\net8.0\Exercicio1_Aula12.AssemblyInfoInputs.cache
+C:\Users\arian\source\repos\Exercicio1_Aula12\Exercicio1_Aula12\obj\Debug\net8.0\Exercicio1_Aula12.AssemblyInfo.cs
+C:\Users\arian\source\repos\Exercicio1_Aula12\Exercicio1_Aula12\obj\Debug\net8.0\Exercicio1_Aula12.csproj.CoreCompileInputs.cache
+C:\Users\arian\source\repos\Exercicio1_Aula12\Exercicio1_Aula12\bin\Debug\net8.0\Exercicio1_Aula12.exe
+C:\Users\arian\source\repos\Exercicio1_Aula12\Exercicio1_Aula12\bin\Debug\net8.0\Exercicio1_Aula12.deps.json
+C:\Users\arian\source\repos\Exercicio1_Aula12\Exercicio1_Aula12\bin\Debug\net8.0\Exercicio1_Aula12.runtimeconfig.json
+C:\Users\arian\source\repos\Exercicio1_Aula12\Exercicio1_Aula12\bin\Debug\net8.0\Exercicio1_Aula12.dll
+C:\Users\arian\source\repos\Exercicio1_Aula12\Exercicio1_Aula12\bin\Debug\net8.0\Exercicio1_Aula12.pdb
+C:\Users\arian\source\repos\Exercicio1_Aula12\Exercicio1_Aula12\obj\Debug\net8.0\Exercicio1_Aula12.dll
+C:\Users\arian\source\repos\Exercicio1_Aula12\Exercicio1_Aula12\obj\Debug\net8.0\refint\Exercicio1_Aula12.dll
+C:\Users\arian\source\repos\Exercicio1_Aula12\Exercicio1_Aula12\obj\Debug\net8.0\Exercicio1_Aula12.pdb
+C:\Users\arian\source\repos\Exercicio1_Aula12\Exercicio1_Aula12\obj\Debug\net8.0\Exercicio1_Aula12.genruntimeconfig.cache
+C:\Users\arian\source\repos\Exercicio1_Aula12\Exercicio1_Aula12\obj\Debug\net8.0\ref\Exercicio1_Aula12.dll
